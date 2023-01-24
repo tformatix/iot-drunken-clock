@@ -112,7 +112,6 @@ void loop() {
       songPlayer.stop();    
       isRinging = false;
     } else {
-      Serial.println("aaa");
       songPlayer.update();
     }
   }
