@@ -22,7 +22,7 @@ Five minutes after the first alarm rings, the second alarm goes off. This can on
 
 ## Curcuit Diagrams
 ### Main
-![IMAGE_ALT](docs\circuit_diagram\Main_Part_Steckplatine.png)
+![IMAGE_ALT](https://raw.githubusercontent.com/tformatix/iot-drunken-clock/main/docs/circuit_diagram/Main_Part_Steckplatine.png)
 
 ### Second
-![IMAGE_ALT](docs\circuit_diagram\Second_Part_Steckplatine.png)
+![IMAGE_ALT](https://raw.githubusercontent.com/tformatix/iot-drunken-clock/main/docs/circuit_diagram/Second_Part_Steckplatine.png)
