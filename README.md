@@ -20,7 +20,7 @@ Five minutes after the first alarm rings, the second alarm goes off. This can on
 - Second Alarm Clock (Arduino MKR1000)
     - RFID-Modul (RC522)
 
-## Curcuit Diagrams
+## Circuit Diagrams
 ### Main
 ![IMAGE_ALT](https://raw.githubusercontent.com/tformatix/iot-drunken-clock/main/docs/circuit_diagram/Main_Part_Steckplatine.png)
 
