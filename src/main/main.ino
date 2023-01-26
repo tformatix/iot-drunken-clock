@@ -1,6 +1,6 @@
 #define BLYNK_PRINT Serial
 
-#define DRUNK_THRESHOLD 750
+#define DRUNK_THRESHOLD 850
 
 #include "arduino_secrets.h"
 #include <SPI.h>
